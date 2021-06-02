@@ -1,4 +1,4 @@
-# Data-Inference
+# Data-Inference and Machine Learning: An Approach to COVID-19 Case Prediction and Causality Inference
 ## Project Overview
 This research project will attempt to answer 2 primary research questions: 
   1.  Are state issued stay-at-home orders effective and is there a causal impact on mobility by these orders? 
